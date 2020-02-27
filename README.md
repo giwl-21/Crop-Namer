@@ -12,7 +12,7 @@ Currently in progress is a calibration system for images that may not be aligned
 
 This was built on Python 3.7; functionality on other versions is untested.
 
-You may have to manually install each module using PIP, either on your entire device or on a venv (virtual environment).
+You may have to manually install each module using PIP, either on your entire device or on a venv (virtual environment).  These modules/libraries are listed in setup.py.
 
 Once you have these loaded, you should be able to run source.py.
 If not, using source.py as a module, you will have to create a root object with Tkinter, then run the class CropNamer.
