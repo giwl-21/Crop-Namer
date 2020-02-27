@@ -1,6 +1,6 @@
 # Crop-Namer
 
-I built this program early 2020 to assist my workflow at my job.  I was hired to scan and archive maps for the Bellefonte Boro Office in Bellefonte, PA.  My duties consisted of physically scanning historical maps, then renaming and organizing them within a database.  I realized that the computer dependant part of the job, manually renaming files based on their page numbers, could be automated using image recognition and computer vision.
+I built this program early 2020 to assist my workflow at my job.  I was hired to scan and archive maps for the Bellefonte Boro Office in Bellefonte, PA.  My duties consisted of physically scanning historical maps, then renaming and organizing them within a database.  I realized that the computer dependant part of the job, manually renaming files based on their page numbers, could be automated using image processing and text recognition.
 
 Crop-Namer seeks utilize all the open-source resources possible in order to provide functionality for users to quickly rename files.
 
