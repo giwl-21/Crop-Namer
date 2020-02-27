@@ -18,7 +18,7 @@ Once you have these loaded, you should be able to run source.py.
 If not, using source.py as a module, you will have to create a root object with Tkinter, then run the class CropNamer.
 
 It would look something like this:
-`root = Tk()
+`root = Tk() \n
 CropNamer(root)`
 
 If this fails, feel free to contact me or analyze the code yourself if you feel so inclined.
